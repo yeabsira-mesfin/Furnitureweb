@@ -730,7 +730,7 @@ a {
 
 .nav__brand {
     transform: translateY(5px);
-    width: 150px;
+    width: 50px;
 }
 
 @media screen and (min-width: 768px) {
@@ -932,4 +932,8 @@ a {
 
 .callout-signup {
     transform: translateY(5rem);
+}
+.footer-img{
+    width: 200px;
+    height: 80px;
 }
